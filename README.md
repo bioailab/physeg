@@ -1,7 +1,7 @@
 ![Examples](img/img.png)
 
 ### Publication
-Sekh, Arif Ahmed, Ida S. Opstad, Gustav Godtliebsen, Åsa Birna Birgisdottir, Balpreet Singh Ahluwalia, Krishna Agarwal, and Dilip K. Prasad. "Physics based machine learning for sub-cellular segmentation in living cells.
+[Sekh, Arif Ahmed](https://www.linkedin.com/in/arif1984/), Ida S. Opstad, Gustav Godtliebsen, Åsa Birna Birgisdottir, Balpreet Singh Ahluwalia, Krishna Agarwal, and Dilip K. Prasad. "Physics based machine learning for sub-cellular segmentation in living cells.
 "Submitted in Nature Machine Intelligence. 2021. 
 [Link to The Paper](XXX)
 
